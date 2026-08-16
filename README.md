@@ -1,5 +1,3 @@
-# hello-world
-My First Repo
+# Archived experiment
 
-I am hoping to turn some of my ideas into reality.
-This is my first time on Github!
+This repository is retained for historical purposes and contains no active project or production code.
